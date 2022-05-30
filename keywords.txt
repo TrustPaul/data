@@ -1,0 +1,2 @@
+0:optimistic, good, ecomic
+1:economic,uncertanity,policy
